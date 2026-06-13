@@ -6,7 +6,7 @@ The website follows a dark red and black aesthetic inspired by Stray Kids' conce
 
 ---
 
-## ✨ Features
+##  Features
 
 * Responsive single-page website
 * Stray Kids-themed design and visuals
@@ -18,7 +18,7 @@ The website follows a dark red and black aesthetic inspired by Stray Kids' conce
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML5
 * CSS3
@@ -27,7 +27,7 @@ The website follows a dark red and black aesthetic inspired by Stray Kids' conce
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 While building this project, I improved my understanding of:
 
@@ -39,7 +39,7 @@ While building this project, I improved my understanding of:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 Some features I would like to add in future versions include:
 
@@ -52,7 +52,7 @@ Some features I would like to add in future versions include:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Ruhi Sharma**
 
